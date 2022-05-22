@@ -1,0 +1,41 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Drive (Mt. Eden Remix)",
+  "_songSubName": "",
+  "_songAuthorName": "Glades",
+  "_levelAuthorName": "Cliche",
+  "_beatsPerMinute": 128,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 4,
+  "_previewDuration": 13,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "KaleidoscopeEnvironment",
+  "_customData": {
+    "_editor": "beatmapper",
+    "_editorSettings": {
+      "enabledFastWalls": false,
+      "modSettings": {}
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_editorOffset": 3000,
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
